@@ -18,3 +18,4 @@ class OrderMailerTest < ActionMailer::TestCase
   end
 
 end
+ 
