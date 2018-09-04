@@ -32,20 +32,20 @@
 en:
   layouts:
     application:
-      title: "All about Aretha"
-      home: "Home"
+      title: "Tout sur Aretha"
+      home: "Page d'accueil"
       questions: "Questions"
-      news: "News"
-      contact: "Contact"
+      news: "Nouveautés"
+      contact: "Contactez-nous"
   store:
     index:
-      title_html: "All our recordings"
-      add_html: "Add to Cart"
+      title_html: "Tous nos enregistrments"
+      add_html: "Ajoutez au panier"
   carts:
     cart:
-      title: "Your Cart"
-      empty: "Empty Cart"
-      checkout: "Checkout"
+      title: "Votre Panier"
+      empty: "Videz le Panier"
+      checkout: "Commandez"
   number:
     currency:
       format:
@@ -53,29 +53,29 @@ en:
         precision: 2
         separator: "."
         delimiter: ","
-        format: "%u%n"
+        format: "%n%u"
   orders:
     new:
-      legend: "Please Enter Your Details"
+      legend: "Informations de paiement"
     form:
-      name: "Name"
-      address_html: "Address"
+      name: "Nom"
+      address_html: "Adresse"
       email: "E-mail"
-      pay_type: "Pay with"
-      pay_prompt_html: "Select a payment method"
-      submit: "Place Order"
+      pay_type: "Je paie avec"
+      pay_prompt_html: "Sélectionnez un moyen de paiement"
+      submit: "Valider"
       pay_types: 
-        check: "Check"
-        credit_card: "Credit Card"
-        purchase_order: "Purchase Order"
+        check: "Chèque"
+        credit_card: "Carte de crédit"
+        purchase_order: "Ordre électronique"
       check_pay_type:
         routing_number: "Routing #"
-        account_number: "Account #"
+        account_number: "Numéro de compte"
       credit_card_pay_type:
-        cc_number: "CC #"
-        expiration_date: "Expiry"
+        cc_number: "Numéro de carte"
+        expiration_date: "Date d'expiration"
       purchase_order_pay_type:
         po_number: "PO #"
-  thanks: "Thank you for your order"
+  thanks: "Merci d'avoir commandé chez nous !"
 
 

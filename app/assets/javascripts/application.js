@@ -15,3 +15,6 @@
 //= require_tree .
 //= require i18n
 //= require i18n/translations
+//= require jquery3
+//= require popper
+//= require bootstrap-sprockets
