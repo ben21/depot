@@ -29,7 +29,7 @@
 # To learn more, please read the Rails Internationalization guide
 # available at http://guides.rubyonrails.org/i18n.html.
 
-en:
+fr:
   layouts:
     application:
       title: "Tout sur Aretha"
@@ -39,7 +39,7 @@ en:
       contact: "Contactez-nous"
   store:
     index:
-      title_html: "Tous nos enregistrments"
+      title_html: "Tous nos enregistrements"
       add_html: "Ajoutez au panier"
   carts:
     cart:
